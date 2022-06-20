@@ -3,4 +3,4 @@
 
 Primeiro repositorio criado durante o curso de Git e Github do Curso em video 
 
-Fazendo uma atuali r remota no  meu repositori para um pull posterior !!
+Fazendo uma atualização remota no  meu repositorio para um pull posterior !!
